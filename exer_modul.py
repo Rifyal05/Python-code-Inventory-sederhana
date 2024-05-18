@@ -1,7 +1,6 @@
 # Data list kosong
 data_barang = []
 
-
 # Fungsi untuk tambah barang
 def tambah_barang():
     nama_barang   = str(input('Masukan nama barang: ')) # Input Nama Barang
