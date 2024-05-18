@@ -1,7 +1,6 @@
 # Import exer_modul sebagai modul 'exorcist'
 import exer_modul as exorcist
 
-
 # Looping atau perulangan untuk menjalankan pogram berulang kali
 while True:
         # Daftar pilihan yang dapat di jalankan oleh program ini
